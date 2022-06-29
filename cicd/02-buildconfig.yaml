@@ -18,7 +18,7 @@ spec:
   source:
     type: Git
     git:
-      uri: 'https://github.com/nmasse-itix/demo-rhacs.git'
+      uri: 'https://github.com/fduthilleul/demo-rhacs.git'
       ref: main
     contextDir: src
   triggers:
@@ -47,7 +47,7 @@ spec:
   source:
     type: Git
     git:
-      uri: 'https://github.com/nmasse-itix/demo-rhacs.git'
+      uri: 'https://github.com/fduthilleul/demo-rhacs.git'
       ref: main
     contextDir: exploit/image
   triggers:
